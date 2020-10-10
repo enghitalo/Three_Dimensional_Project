@@ -1,6 +1,6 @@
 # Three_Dimensional_Project
 
-A new Flutter project.
+Projeto criado com a intenção de habilitar o uso de arquivos glTF em Dart(Flutter)
 
 ## Getting Started
 
